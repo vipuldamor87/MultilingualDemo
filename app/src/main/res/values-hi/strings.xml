@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Constraint</string>
+    <string name="name">नाम</string>
+    <string name="email">ईमेल</string>
+    <string name="mobile">मोबाइल नंबर</string>
+    <string name="gender">जाति</string>
+    <string name="birthdate">जन्म तारीख</string>
+    <string name="selectedlanguage">Hindi</string>
+    <string name="savedpaymentdetails">भुगतान विवरण सहेजा गया</string>
+    <string name="myaddress">मेरा पता</string>
+    <string name="favorite">पसंदीदा</string>
+</resources>

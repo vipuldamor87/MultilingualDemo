@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Constraint</string>
+<string name="name">اسم</string>
+<string name="email">بريد الالكتروني</string>
+<string name="mobile">رقم الهاتف المحمول</string>
+<string name="gender">جنس تذكير أو تأنيث</string>
+<string name="birthdate">تاريخ الميلاد</string>
+<string name="selectedlanguage">Arabic</string>
+<string name="savedpaymentdetails">تفاصيل الدفع المحفوظة</string>
+<string name="myaddress">عنواني</string>
+<string name="favorite">المفضل</string>
+</resources>

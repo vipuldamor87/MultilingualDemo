@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Constraint</string>
+    <string name="name">Name</string>
+    <string name="email">E-mail</string>
+    <string name="mobile">Mobile no.</string>
+    <string name="gender">Gender</string>
+    <string name="birthdate">Birth Date</string>
+    <string name="selectedlanguage">English</string>
+    <string name="savedpaymentdetails">Saved Payment Details</string>
+    <string name="myaddress">My Address</string>
+    <string name="favorite">Favourite</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Constraint</string>
+    <string name="name">નામ</string>
+    <string name="email">ઇમેઇલ</string>
+    <string name="mobile">મોબાઈલ નમ્બર</string>
+    <string name="gender">જાતિ</string>
+    <string name="birthdate">જન્મતારીખ</string>
+    <string name="selectedlanguage">Gujarati</string>
+    <string name="savedpaymentdetails">સાચવેલ ચુકવણી વિગતો</string>
+    <string name="myaddress">મારું સરનામું</string>
+    <string name="favorite">મનપસંદ</string>
+</resources>
